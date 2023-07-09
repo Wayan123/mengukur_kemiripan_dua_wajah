@@ -18,7 +18,7 @@ Cara penggunaan:
 
 Kode ini hanya sebagai contoh saja dan mungkin masih bisa dikembangkan agar mendapatkan hasil yang jauh lebih baik. Metode yang digunakan adalah mengukur kemiripan menggunakan Euclidean Distance atau normal L2.
 
-Metode yang digunakan pada kode di atas untuk mengukur kemiripan dua wajah seseorang pada kode adalah sebagai berikut:
+### Metode yang digunakan pada kode di atas untuk mengukur kemiripan dua wajah seseorang pada kode adalah sebagai berikut:
 
 1. Deteksi Wajah: Pertama, gambar wajah dari kedua direktori dimuat menggunakan `dlib.load_rgb_image` dan deteksi wajah dilakukan menggunakan model-detektor wajah HOG dari `dlib`. Deteksi wajah ini membantu dalam menemukan lokasi dan ukuran wajah pada gambar.
 
