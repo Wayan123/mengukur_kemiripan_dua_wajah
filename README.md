@@ -1,4 +1,4 @@
-# mengukur_kemiripan_dua_wajah
+# Mengukur kemiripan dua wajah 
 
 # Note: Kode dijalankan pada GPU agar bisa mendapatkan hasil yang lebih cepat.
 
