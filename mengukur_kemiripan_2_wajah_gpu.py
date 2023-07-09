@@ -53,8 +53,8 @@ def hitung_kemiripan_wajah(direktori_1, direktori_2):
     return kemiripan_min
 
 # Contoh penggunaan
-direktori_1 = "ken"
-direktori_2 = "wahidin"
+direktori_1 = "wajah_1"
+direktori_2 = "wajah_2"
 
 kemiripan = hitung_kemiripan_wajah(direktori_1, direktori_2)
 print("Kemiripan antara Wajah_1 dan Wajah_2 adalah:", kemiripan * 100, "%")
