@@ -3,8 +3,19 @@
 # Note: Kode dijalankan pada GPU agar bisa mendapatkan hasil yang lebih cepat.
 
 Cara penggunaan:
-- Buat 2 buah directory dengan nama wajah_1 dan wajah_2.
-- Kumpulkan gambar lebih dari 1, jika ingin menggunakan 1 gambar saja, silakan edit kode-nya.
+
+1. Jika hanya membandingkan hanya 1 per 1 foto saja, maka:
+   
+- Taruh foto1 dan foto2 pada directory yang sama dengan program, atau bisa juga menggunakan foto yang ada di dalam directory wajah_1 dan wajah_2, dengan cara ubah baris sebagai berikut
+
+# Contoh penggunaan
+foto_1 = "wajah_1/ariel.jpg"
+foto_2 = "awajah_2/riel_kw1.jpg"
+
+2. Jika ingin menggunakan banyak foto pada masing-masing wajah:
+
+- Buat  2 buah directory berupa wajah_1 dan wajah_2.
+- Kumpulkan gambar lebih dari 1, lalu taruh pada masing-masing directory.
 
 Kode ini hanya sebagai contoh saja dan mungkin masih bisa dikembangkan agar mendapatkan hasil yang jauh lebih baik. Metode yang digunakan adalah mengukur kemiripan menggunakan Euclidean Distance atau normal L2.
 
