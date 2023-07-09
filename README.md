@@ -8,13 +8,10 @@ Cara penggunaan:
 
 - Gunakan kode mengukur_kemiripan_2_wajah.py dan jika menggunakan jupyter atau google colab gunakan kode mengukur_kemiripan_2_wajah.ipynb
 - Taruh foto1 dan foto2 pada directory yang sama dengan program, atau bisa juga menggunakan foto yang ada di dalam directory wajah_1 dan wajah_2, dengan cara ubah baris sebagai berikut
-
-a. foto_1 = "wajah_1/ariel.jpg"
-
-b. foto_2 = "awajah_2/riel_kw1.jpg"
+- a. foto_1 = "wajah_1/ariel.jpg"
+- b. foto_2 = "awajah_2/riel_kw1.jpg"
 
 2. Jika ingin menggunakan banyak foto pada masing-masing wajah:
-
 - Gunakan kode mengukur_kemiripan_2_wajah_GPU.py dan jika menggunakan jupyter atau google colab gunakan kode mengukur_kemiripan_2_wajah_GPU.ipynb
 - Buat  2 buah directory berupa wajah_1 dan wajah_2.
 - Kumpulkan gambar lebih dari 1, lalu taruh pada masing-masing directory.
