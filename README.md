@@ -2,6 +2,10 @@
 
 # Note: Kode dijalankan pada GPU agar bisa mendapatkan hasil yang lebih cepat.
 
+Cara penggunaan:
+- Buat 2 buah directory dengan nama wajah_1 dan wajah_2.
+- Kumpulkan gambar lebih dari 1, jika ingin menggunakan 1 gambar saja, silakan edit kode-nya.
+
 Kode ini hanya sebagai contoh saja dan mungkin masih bisa dikembangkan agar mendapatkan hasil yang jauh lebih baik. Metode yang digunakan adalah mengukur kemiripan menggunakan Euclidean Distance atau normal L2.
 
 Metode yang digunakan pada kode di atas untuk mengukur kemiripan dua wajah seseorang pada kode adalah sebagai berikut:
