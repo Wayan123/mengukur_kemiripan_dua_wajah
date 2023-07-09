@@ -10,6 +10,7 @@ Cara penggunaan:
 - Taruh foto1 dan foto2 pada directory yang sama dengan program, atau bisa juga menggunakan foto yang ada di dalam directory wajah_1 dan wajah_2, dengan cara ubah baris sebagai berikut
 
 a. foto_1 = "wajah_1/ariel.jpg"
+
 b. foto_2 = "awajah_2/riel_kw1.jpg"
 
 2. Jika ingin menggunakan banyak foto pada masing-masing wajah:
